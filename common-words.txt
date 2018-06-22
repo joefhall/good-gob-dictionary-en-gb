@@ -1,8 +1,9 @@
+British English - common words
 you,u
-i
-i'll
-i've
-i'd
+I
+I'll
+I've
+I'd
 the
 to,too,two,2
 a
