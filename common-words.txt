@@ -1,6 +1,6 @@
 British English - common words
 you,u
-I
+I,eye,aye
 I'll
 I'm
 I've
@@ -659,7 +659,6 @@ somewhere
 picture
 step
 president
-eye,aye
 hospital
 piece,peace
 weeks
